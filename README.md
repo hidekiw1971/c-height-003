@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/99580997/222884836-a5b1d811-0672-4901-8683-d54f30422b95.png">
 
 # compornent（共通部品）
 - 「height: 100dvh;」の場合
